@@ -1,0 +1,16 @@
+.title,
+.Desc {
+  color: white;
+}
+.title {
+  text-align: center;
+  background-color: red;
+  font-weight: bold;
+}
+.Desc {
+  background-color: green;
+}
+.btn {
+  background-color: orange;
+  border-color: white;
+}

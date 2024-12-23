@@ -1,0 +1,18 @@
+.n1,
+.n3,
+.n5 {
+  background-color: pink;
+}
+.n2 {
+  color: blue;
+  font-size: 32px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.n3 {
+  font-family: sans-serif;
+}
+.n4 {
+  background-color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
