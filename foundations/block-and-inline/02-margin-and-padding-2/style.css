@@ -25,9 +25,9 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px;
-  text-align: center;
+  margin: 8px auto; /* Center the element horizontally */
   padding: 8px;
+  width: fit-content; /* Ensure the element has a defined width */
 }
 
 button {
